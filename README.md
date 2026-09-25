@@ -1,1 +1,2 @@
 # genup-releases
+ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIK67gj+U70R7iJ9cjFla8N1JJMn79mHBfz3EoH2T2muc genup-releases@GEN_VPN
